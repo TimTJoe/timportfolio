@@ -1,0 +1,16 @@
+footer {
+    background-color: #919191;
+    padding: 12px 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 0 4px;
+}
+
+footer span {
+    margin-left: 12px;
+}
